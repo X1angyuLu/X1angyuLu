@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/X1angyuLu/X1angyuLu/blob/gh-pages/ocean.gif?raw=true)
-
-![snake svg](https://github.com/X1angyuLu/X1angyuLu/blob/gh-pages/github-snake-dark.svg)
+![snake svg](https://x1angyulu.github.io/github-snake.svg)
 
