@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake svg](https://x1angyulu.github.io/github-snake.svg)
+![grid snake animation](https://raw.githubusercontent.com/X1angyuLu/X1angyuLu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![grid snake animation](https://raw.githubusercontent.com/X1angyuLu/X1angyuLu/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
